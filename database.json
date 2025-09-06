@@ -1,11 +1,7 @@
 {
   "users": {},
-  "referrals": {}
-}
-
-
-{
-  "users": {},
+  "wallets": {},
+  "referrals": {},
   "keys": {
     "key2000": 2000,
     "key500": 500,
